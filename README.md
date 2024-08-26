@@ -15,43 +15,78 @@ programmers, leetcode, solvesql, Testdom
 <table align = "center">
   <tr align = "center">
     <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
-    <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
+    <td><a href="https://github.com/lnh31"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
+    <td><a href="https://github.com/leejmzz"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
+    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
+    <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/joonk2">Joonk2</a></td>
-    <td><a href = "https://github.com/joonk2">Joonk2</a></td>
+    <td><a href = "https://github.com/lnh31">lnh31</a></td>
+    <td><a href = "https://github.com/leejmzz">leejmzz</a></td>
+    <td><a href = "https://github.com/young2good">leejmzz</a></td>
+    <td><a href = "https://github.com/uningcorn">leejmzz</a></td>
   </tr>
 </table>
 
 
-## PLAN
+## 계획
 
-
-<table align = "center">
-  <tr align = "center">
-    <td><b> 주차</td>
-    <td><b>날짜</td>
-    <td><b>분량</td>
+<table align="center" border="1">
+  <tr align="center">
+    <td><b>주차</b></td>
+    <td><b>날짜</b></td>
+    <td><b>joonk2</b></td>
+    <td><b>lnh31</b></td>
+    <td><b>leejmzz</b></td>
+    <td><b>young2good</b></td>
+    <td><b>uningcorn</b></td>
   </tr>
-  <tr align = "center">
+  <tr align="center">
     <td>1주차</td>
     <td>08.28 ~ 09.04</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
-  <tr align = "center">
+  <tr align="center">
     <td>2주차</td>
     <td>09.04 ~ 09.11</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
-  <tr align = "center">
+  <tr align="center">
     <td>3주차</td>
     <td>09.11 ~ 09.18</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
-    <tr align = "center">
+  <tr align="center">
     <td>4주차</td>
     <td>09.18 ~ 09.25</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
-    </tr>
-    <tr align = "center">
+  <tr align="center">
     <td>5주차</td>
     <td>09.25 ~ 10.02</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
+
+

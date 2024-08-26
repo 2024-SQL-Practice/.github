@@ -12,14 +12,15 @@ programmers, leetcode, solvesql, Testdom
 
 ## 구성원
 
-<table align = "center">
-  <tr align = "center">
+<table align="center" border="1">
+  <tr align="center">
     <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
-    <td><a href="https://github.com/lnh31"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
-    <td><a href="https://github.com/leejmzz"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
-    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
-    <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
+    <td><a href="https://github.com/lnh31"><img src="https://avatars.githubusercontent.com/u/lnh31?v=4" width=200></a></td>
+    <td><a href="https://github.com/leejmzz"><img src="https://avatars.githubusercontent.com/u/leejmzz?v=4" width=200></a></td>
+    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/young2good?v=4" width=200></a></td>
+    <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/uningcorn?v=4" width=200></a></td>
   </tr>
+</table>
   <tr align = "center">
     <td><a href = "https://github.com/joonk2">Joonk2</a></td>
     <td><a href = "https://github.com/lnh31">lnh31</a></td>

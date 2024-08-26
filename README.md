@@ -98,6 +98,16 @@ programmers, leetcode, solvesql, Testdom 등등
     <td></td>
     <td></td>
   </tr>
+    </tr>
+    <tr align="center">
+    <td>~주차</td>
+    <td> ~ </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
 
 

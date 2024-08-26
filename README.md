@@ -7,7 +7,7 @@
 - 개인 사정으로 스터디 시간에 참여하지 못했더라도 문제와 깃허브 푸시는 할 것
 
 ## 3. 문풀 사이트
-programmers, leetcode, solvesql, Testdom
+programmers, leetcode, solvesql, Testdom 등등
 
 
 ## 구성원

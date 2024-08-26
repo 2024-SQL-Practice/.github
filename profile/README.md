@@ -11,7 +11,7 @@
 programmers, leetcode, solvesql, Testdom 등등
 
 
-## 구성원
+## 4. 구성원
 <table align = "center">
   <tr align = "center">
     <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
@@ -35,7 +35,7 @@ programmers, leetcode, solvesql, Testdom 등등
 
 
 
-## 계획
+## 5. 계획
 
 <table align="center" border="1">
   <tr align="center">

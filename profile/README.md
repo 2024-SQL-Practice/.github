@@ -44,8 +44,9 @@ programmers, leetcode, solvesql, Testdom 등등
     <td><b>joonk2</b></td>
     <td><b>lnh31</b></td>
     <td><b>leejmzz</b></td>
-    <td><b>young2good</b></td>
-    <td><b>uningcorn</b></td>
+    <td><b>JunSeop Ko</b></td>
+<!--     <td><b>young2good</b></td>
+    <td><b>uningcorn</b></td> -->
   </tr>
   <tr align="center">
     <td>1주차</td>
@@ -54,12 +55,10 @@ programmers, leetcode, solvesql, Testdom 등등
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr align="center">
     <td>2주차</td>
     <td>09.04 ~ 09.11</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -72,12 +71,10 @@ programmers, leetcode, solvesql, Testdom 등등
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
   <tr align="center">
     <td>4주차</td>
     <td>09.18 ~ 09.25</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -90,12 +87,10 @@ programmers, leetcode, solvesql, Testdom 등등
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
   </tr>
     <tr align="center">
     <td>6주차</td>
     <td>10.02 ~ 10.09</td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -105,7 +100,6 @@ programmers, leetcode, solvesql, Testdom 등등
     <tr align="center">
     <td>~주차</td>
     <td> ~ </td>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>

@@ -17,20 +17,20 @@ programmers, leetcode, solvesql, Testdom 등등
     <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
     <td><a href="https://github.com/lnh31"><img src="https://avatars.githubusercontent.com/u/90559493?v=4" width=200></a></td>
     <td><a href="https://github.com/leejmzz"><img src="https://avatars.githubusercontent.com/u/144790910?v=4" width=200></a></td>
-    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/179083793?v=4" width=200>
+    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/76592163?v=4" width=200>
 <!--     <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/179083793?v=4" width=200></a></td>
     <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/165996078?v=4" width=200></a></td> -->
   </tr>
+      
   <tr align = "center">
     <td><a href = "https://github.com/joonk2">Joonk2</a></td>
     <td><a href = "https://github.com/lnh31">lnh31</a></td>
     <td><a href = "https://github.com/leejmzz">leejmzz</a></td>
-    <td><a href = "https://github.com/young2good">young2good</a>
+    <td><a href = "https://github.com/JunSeobGo">JunSeobGo</a>
 <!--     <td><a href = "https://github.com/young2good">young2good</a></td>
     <td><a href = "https://github.com/uningcorn">uningcorn</a></td> -->
   </tr>
 </table>
-
 
 
 

@@ -11,24 +11,25 @@ programmers, leetcode, solvesql, Testdom
 
 
 ## 구성원
-
-<table align="center" border="1">
-  <tr align="center">
+<table align = "center">
+  <tr align = "center">
     <td><a href="https://github.com/joonk2"><img src="https://avatars.githubusercontent.com/u/153247950?v=4" width=200></a></td>
-    <td><a href="https://github.com/lnh31"><img src="https://avatars.githubusercontent.com/u/lnh31?v=4" width=200></a></td>
-    <td><a href="https://github.com/leejmzz"><img src="https://avatars.githubusercontent.com/u/leejmzz?v=4" width=200></a></td>
-    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/young2good?v=4" width=200></a></td>
-    <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/uningcorn?v=4" width=200></a></td>
+    <td><a href="https://github.com/lnh31"><img src="https://avatars.githubusercontent.com/u/90559493?v=4" width=200></a></td>
+    <td><a href="https://github.com/leejmzz"><img src="https://avatars.githubusercontent.com/u/144790910?v=4" width=200></a></td>
+    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/179083793?v=4" width=200></a></td>
+    <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/165996078?v=4" width=200></a></td>
   </tr>
-</table>
   <tr align = "center">
     <td><a href = "https://github.com/joonk2">Joonk2</a></td>
     <td><a href = "https://github.com/lnh31">lnh31</a></td>
     <td><a href = "https://github.com/leejmzz">leejmzz</a></td>
-    <td><a href = "https://github.com/young2good">leejmzz</a></td>
-    <td><a href = "https://github.com/uningcorn">leejmzz</a></td>
+    <td><a href = "https://github.com/young2good">young2good</a></td>
+    <td><a href = "https://github.com/uningcorn">uningcorn</a></td>
   </tr>
 </table>
+
+
+
 
 
 ## 계획
@@ -46,7 +47,7 @@ programmers, leetcode, solvesql, Testdom
   <tr align="center">
     <td>1주차</td>
     <td>08.28 ~ 09.04</td>
-    <td></td>
+    <td>달성여부 ex) O or X</td>
     <td></td>
     <td></td>
     <td></td>
@@ -82,6 +83,15 @@ programmers, leetcode, solvesql, Testdom
   <tr align="center">
     <td>5주차</td>
     <td>09.25 ~ 10.02</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+    <tr align="center">
+    <td>6주차</td>
+    <td>10.02 ~ 10.09</td>
     <td></td>
     <td></td>
     <td></td>

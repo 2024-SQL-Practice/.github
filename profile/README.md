@@ -19,9 +19,8 @@ programmers, leetcode, solvesql, Testdom 등등
     <td><a href="https://github.com/leejmzz"><img src="https://avatars.githubusercontent.com/u/144790910?v=4" width=200></a></td>
     <td><a href="https://github.com/JunSeobGo"><img src="https://avatars.githubusercontent.com/u/76592163?v=4" width=200>
     <td><a href="https://github.com/mindido"><img src="https://avatars.githubusercontent.com/u/179489567?v=4" width=200>
-        
-<!--     <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/179083793?v=4" width=200></a></td>
-    <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/165996078?v=4" width=200></a></td> -->
+    <td><a href="https://github.com/young2good"><img src="https://avatars.githubusercontent.com/u/179083793?v=4" width=200></a></td>
+<!--         <td><a href="https://github.com/uningcorn"><img src="https://avatars.githubusercontent.com/u/165996078?v=4" width=200></a></td> -->
   </tr>
       
   <tr align = "center">
@@ -30,9 +29,8 @@ programmers, leetcode, solvesql, Testdom 등등
     <td><a href = "https://github.com/leejmzz">leejmzz</a></td>
     <td><a href = "https://github.com/JunSeobGo">JunSeobGo</a>
     <td><a href = "https://github.com/mindido">mindido</a>
-        
-<!--     <td><a href = "https://github.com/young2good">young2good</a></td>
-    <td><a href = "https://github.com/uningcorn">uningcorn</a></td> -->
+    <td><a href = "https://github.com/young2good">young2good</a></td>
+<!--         <td><a href = "https://github.com/uningcorn">uningcorn</a></td> -->
   </tr>
 </table>
 
@@ -50,8 +48,8 @@ programmers, leetcode, solvesql, Testdom 등등
     <td><b>leejmzz</b></td>
     <td><b>JunSeop Ko</b></td>
     <td><b>mindido</b></td>
-<!--     <td><b>young2good</b></td>
-    <td><b>uningcorn</b></td> -->
+    <td><b>young2good</b></td>
+<!--         <td><b>uningcorn</b></td> -->
   </tr>
   <tr align="center">
     <td>1주차</td>
@@ -61,10 +59,12 @@ programmers, leetcode, solvesql, Testdom 등등
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>2주차</td>
     <td>09.04 ~ 09.11</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -79,10 +79,12 @@ programmers, leetcode, solvesql, Testdom 등등
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
   <tr align="center">
     <td>4주차</td>
     <td>09.18 ~ 09.25</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -97,10 +99,12 @@ programmers, leetcode, solvesql, Testdom 등등
     <td></td>
     <td></td>
     <td></td>
+    <td></td>
   </tr>
     <tr align="center">
     <td>6주차</td>
     <td>10.02 ~ 10.09</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -111,6 +115,7 @@ programmers, leetcode, solvesql, Testdom 등등
     <tr align="center">
     <td>~주차</td>
     <td> ~ </td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>

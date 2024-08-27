@@ -122,4 +122,6 @@ programmers, leetcode, solvesql, Testdom 등등
   </tr>
 </table>
 
+<br><br><br>
 
+### 제가 권한 전부 `소유자`로 바꿔놔서 추가하고 싶으신 내용 있으시면 알아서 추가해주시면 됩니다ㅎ

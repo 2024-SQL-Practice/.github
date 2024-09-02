@@ -52,7 +52,7 @@ programmers, leetcode, solvesql, Testdom 등등
   <tr align="center">
     <td>1주차</td>
     <td>08.28 ~ 09.04</td>
-    <td>달성여부 ex) O or X</td>
+    <td>O</td>
     <td></td>
     <td></td>
     <td></td>
